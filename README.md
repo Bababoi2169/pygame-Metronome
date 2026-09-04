@@ -1,4 +1,4 @@
-```markdown
+
 # Pygame Metronome
 
 A simple metronome application built with Python, Pygame, and `pygame-widgets`.
